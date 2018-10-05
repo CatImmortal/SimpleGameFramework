@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/SimpleGameFramework/Test/Event/Test.unity
-  isLoaded: 1
-  isActive: 1
